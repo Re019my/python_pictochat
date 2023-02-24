@@ -2,7 +2,7 @@
 
 import socket
 
-IPSERVEUR = '172.22.49.90' # pour test en local; sinon mettre la vraie adresse IP
+IPSERVEUR = '' # pour test en local; sinon mettre la vraie adresse IP
 PORT = 6789
 
 client = socket.socket()
